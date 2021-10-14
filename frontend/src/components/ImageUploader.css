@@ -1,0 +1,113 @@
+.Button{
+  height: 15%;
+  width:  18%;
+  left: -2%;
+  top: 40%;
+  color: white;
+  background-color: #fbbe28;
+  position:relative;
+  border-radius: 25px;
+  font-size: 30px;
+  border: 1px solid black;
+}
+
+.Container{
+  height: 100vh;
+  width: 100vw;
+  background-color: #f4caac;
+  display: flex;
+  justify-content: center;
+  background-image: url("./zanuda.png");
+  background-size: auto 105%;
+}
+
+
+.FileChoose{
+  position: relative;
+  top: 40%;
+  display: flex;
+  flex-direction: column;
+  height: 70px;
+  justify-content: space-around;
+}
+
+
+.FileInputLocation{
+  position: relative;
+  left: 15px;
+}
+
+
+.SendButton{
+  background-color: #fbbe28;
+  border: 1px solid black;
+  border-radius: 25px;
+  height: 50%;
+  position: relative;
+  top:5px;
+}
+
+
+.LoadTable{
+  height: 15%;
+  width:  18%;
+  left: -2%;
+  top: 40%;
+  color: white;
+  background-color: #fbbe28;
+  position:relative;
+  border-radius: 25px;
+  font-size: 30px;
+  border: 1px solid black;
+}
+
+
+.move{
+  position: fixed;
+  top: 40%;
+}
+
+
+.Load{
+  display: flex;
+  flex-direction: column;
+  height: 70px;
+  justify-content: space-around;
+}
+
+
+.OpacityChange{
+  opacity: 50%;
+  border: 1px solid black;
+}
+
+
+.LoadButton{
+  font-size: 15px;
+}
+
+.ResultText{
+  position: relative;
+  top: 30%;
+  font-size: 30px;
+}
+
+
+.GetResult{
+  height: 15%;
+  width:  18%;
+  left: 50px;
+  top: 40%;
+  color: white;
+  background-color: #fbbe28;
+  position:relative;
+  border-radius: 25px;
+  font-size: 30px;
+  border: 1px solid black;
+}
+
+
+
+
+
+
